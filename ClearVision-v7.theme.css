@@ -14,8 +14,8 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #2780e6;
-  --hover-color: #1e63b3;
+  --main-color: #72a7fc;
+  --hover-color: #4682e3;
   --success-color: #43b581;
   --danger-color: #982929;
   /* STATUS COLORS */
@@ -25,8 +25,8 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   /* APP BACKGROUND */
-  --background-shading-percent: 100%;
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
+  --background-shading-percent: 80%;
+  --background-image: url(https://i.ibb.co/KjNNhrkk/rem-by-caitaron-ddmvtom-fullview.jpg);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
