@@ -60,7 +60,7 @@
 :is(.theme-dark, .theme-light .theme-dark) {
   --background-shading: rgba(0, 0, 0, 0.1);
   --card-shading: rgba(0, 0, 0, 0.2);
-  --popout-shading: rgba(0, 0, 0, 0);
+  --popout-shading: rgba(0, 0, 0, 0.5);
   --modal-shading: rgba(0, 0, 255, 0.4);
   --input-shading: rgba(255, 255, 255, 0.05);
   --normal-text: #d8d8db;
