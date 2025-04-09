@@ -25,7 +25,7 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   /* APP BACKGROUND */
-  --background-shading-percent: 70%;
+  --background-shading-percent: 80%;
   --background-image: url(https://i.ibb.co/KjNNhrkk/rem-by-caitaron-ddmvtom-fullview.jpg);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
@@ -58,11 +58,11 @@
 
 /* ASH THEME */
 :is(.theme-dark, .theme-light .theme-dark) {
-  --background-shading: rgba(0, 0, 0, 0.1);
+  --background-shading: rgba(1, 1, 1, 0.1);
   --card-shading: rgba(0, 0, 0, 0.5);
   --popout-shading: rgba(0, 0, 0, 0.2);
   --modal-shading: rgba(0, 0, 255, 0.3);
-  --input-shading: rgba(255, 255, 255, 0.05);
+  --input-shading: rgba(255, 255, 255, 0.5);
   --normal-text: #d8d8db;
   --muted-text: #aeaeb4;
 }
