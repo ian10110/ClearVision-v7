@@ -25,7 +25,7 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   /* APP BACKGROUND */
-  --background-shading-percent: 80%;
+  --background-shading-percent: 70%;
   --background-image: url(https://i.ibb.co/KjNNhrkk/rem-by-caitaron-ddmvtom-fullview.jpg);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
@@ -61,7 +61,7 @@
   --background-shading: rgba(0, 0, 0, 0.4);
   --card-shading: rgba(0, 0, 0, 0.2);
   --popout-shading: rgba(0, 0, 0, 0.6);
-  --modal-shading: rgba(0, 0, 0, 0.4);
+  --modal-shading: rgba(0, 0, 0, 0.1);
   --input-shading: rgba(255, 255, 255, 0.05);
   --normal-text: #d8d8db;
   --muted-text: #aeaeb4;
