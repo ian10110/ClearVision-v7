@@ -32,11 +32,11 @@
   /* USER POPOUT BACKGROUND */
   --user-popout-image: var(--background-image);
   --user-popout-attachment: var(--background-attachment);
-  --user-popout-filter: blur(--background-filter);
+  --user-popout-filter: saturate(110%) blur(10px)(--background-filter);
   /* USER MODAL BACKGROUND */
   --user-modal-image: var(--background-image);
   --user-modal-attachment: var(--background-attachment);
-  --user-modal-filter: blur(--background-filter);
+  --user-modal-filter: saturate(110%) blur(10px)(--background-filter);
   /* HOME ICON */
   --home-icon: url(https://clearvision.github.io/icons/discord.svg);
   /* FONTS */
