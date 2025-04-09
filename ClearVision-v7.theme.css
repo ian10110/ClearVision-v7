@@ -61,8 +61,8 @@
   --background-shading: rgba(0, 0, 0, 0.4);
   --card-shading: rgba(0, 0, 0, 0.2);
   --popout-shading: rgba(0, 0, 0, 0.6);
-  --modal-shading: rgba(0, 0, 0, 0.1);
-  --input-shading: rgba(255, 255, 255, 0.05);
+  --modal-shading: rgba(0, 0, 0, 0.3);
+  --input-shading: rgba(0, 0, 0, 0.05);
   --normal-text: #d8d8db;
   --muted-text: #aeaeb4;
 }
