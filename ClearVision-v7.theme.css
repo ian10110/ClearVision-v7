@@ -58,7 +58,7 @@
 
 /* ASH THEME */
 :is(.theme-dark, .theme-light .theme-dark) {
-  --background-shading: rgba(1, 1, 1, 0.1);
+  --background-shading: rgba(255, 255, 255, 0.1);
   --card-shading: rgba(0, 0, 0, 0.5);
   --popout-shading: rgba(0, 0, 0, 0.2);
   --modal-shading: rgba(0, 0, 255, 0.3);
