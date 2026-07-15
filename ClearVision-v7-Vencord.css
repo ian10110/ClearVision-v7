@@ -24,8 +24,8 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   /* APP BACKGROUND */
-  --background-shading-percent: 100%;
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
+  --background-shading-percent: 69%;
+  --background-image: url(https://cdn.phototourl.com/free/2026-07-15-217a9293-2427-4337-a8b5-17327b926115.jpg);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
