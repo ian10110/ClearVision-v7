@@ -25,7 +25,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 69%;
-  --background-image: url(https://cdn.phototourl.com/free/2026-07-15-217a9293-2427-4337-a8b5-17327b926115.jpg);
+  --background-image: url(https://media1.tenor.com/m/D1x4NnklkCwAAAAC/haerin-kang-haerin.gif);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
