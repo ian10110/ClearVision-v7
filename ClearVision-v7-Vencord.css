@@ -25,7 +25,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 69%;
-  --background-image: url(https://www.youtube.com/watch?v=7HIZ4m_ZLkk);
+  --background-image: url(https://i.pinimg.com/originals/9c/8d/83/9c8d83a0e9d61c10dbb33d9aeb5d1bb0.jpg);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
